@@ -15,7 +15,7 @@ execution time of different algorithms.
 > **Fill in every member's details exactly before submitting. Missing or incorrect information may lose marks.**
 
 ### Member 1
-- **Student Name:** <Mohemmad Manfahath>
+- **Student Name:** Mohemmad Manfahath
 - **Student ID:** <23da2-0655>
 - **GitHub Username:** <Manfahath>
 - **Assigned Responsibility:** Array and Searching implementation
@@ -26,7 +26,7 @@ execution time of different algorithms.
   - Implemented step counting and the Linear vs Binary search comparison
 
 ### Member 2
-- **Student Name:** <Fathima Misna>
+- **Student Name:** Fathima Misna
 - **Student ID:** <23da2-1143>
 - **GitHub Username:** <23da2-1143>
 - **Assigned Responsibility:** Stack, Queue and utility classes
@@ -38,7 +38,7 @@ execution time of different algorithms.
   - Implemented the Stack and Queue submenus in `Main` (`stackMenu`, `queueMenu`)
 
 ### Member 3
-- **Student Name:** <Hameed Hafila>
+- **Student Name:** Hameed Hafila
 - **Student ID:** <23da2-960>
 - **GitHub Username:** <HafilaHameed>
 - **Assigned Responsibility:** Linked List implementation and performance comparison
@@ -48,7 +48,7 @@ execution time of different algorithms.
   - Implemented the Linked List submenu in `Main` (`listMenu`)
 
 ### Member 4
-- **Student Name:** <Ayman Methal>
+- **Student Name:** Ayman Methal
 - **Student ID:** <23da2-676>
 - **GitHub Username:** <aymanmethal2000>
 - **Assigned Responsibility:** Graph implementation, main menu, integration and testing
